@@ -128,10 +128,13 @@
 
 }
 
-.body{
-	background-image:url("../image/orange.JPG");
-	
-}
+.img {
+	width: 400px;
+	border-radius: 110px;
+	float: right;
+	margin-right: 20px;
+	margin-bottom: 80px;
+  }
 
 .footer{
 	margin-top: 40px;
