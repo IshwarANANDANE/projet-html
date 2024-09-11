@@ -1,0 +1,67 @@
+.droite{
+	text-align: left;
+	margin-left: 850px;
+	border: 5px solid black; padding: 5px;
+}
+.stage{
+	text-align: left;
+	margin-bottom: 100px;
+	margin-left: 850px;
+	border: 5px solid black; padding: 5px;
+}
+
+.gauche{
+	text-align: left;
+	margin-right: 500px;
+	border: 5px solid black; padding: 3px;
+}
+.sommaire{
+	text-align: left;
+	margin-right: 1100px;
+	border: 5px solid black; padding: 3px;
+}
+
+.rouge{
+	color: darkviolet;
+}
+
+.blanc{
+	color: white;
+}
+.horaire {
+	text-align: left;
+	margin-bottom: 300px;
+	margin-left: 850px;
+	border: 5px solid black; padding: 5px;
+
+}
+.ext {
+	text-align: left;
+	margin-top: 0px;
+	margin-left: 0px;
+	border: 5px solid black; padding: 5px;
+
+}
+
+.body{
+	background-image:url("../image/orange.JPG");
+	
+}
+
+.footer{
+	margin-top: 40px;
+	border: 5px solid black; padding: 5px;
+}
+
+.haut {
+	margin-top: 20px;
+	border: 5px solid black; padding: 5px;
+}
+.bas{
+	margin-top: 2200px;
+	border: 5px solid black; padding: 5px;
+}
+
+.espace{
+	margin-left: 200px;
+}
